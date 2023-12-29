@@ -1,5 +1,5 @@
 {
-    "name": "yosymfony/resource-watcher",
+    "name": "cleberar/resource-watcher",
     "description": "A simple resource watcher using Symfony Finder",
     "keywords": [
         "resources",
